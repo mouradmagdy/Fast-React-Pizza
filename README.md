@@ -7,9 +7,9 @@ Fast-React-Pizza is deployed to vercel, you can view it using this URL [Fast-Rea
 ## Features
 * Browse a variety of pizza options
 * Quantity Selection: Choose the quantity of each pizza you want to order.
-*Shopping Cart: Add pizzas to your cart for easy tracking and checkout.
-*Total Price Calculation: See the total price of your order in real-time.
-*Responsive Design: Enjoy a seamless experience on both desktop and mobile devices.
+* Shopping Cart: Add pizzas to your cart for easy tracking and checkout.
+* Total Price Calculation: See the total price of your order in real-time.
+* Responsive Design: Enjoy a seamless experience on both desktop and mobile devices.
 
 ## Technologies used
 * Reactjs
@@ -17,3 +17,8 @@ Fast-React-Pizza is deployed to vercel, you can view it using this URL [Fast-Rea
 * Redux Toolkit
 * Tailwind css
 
+## Installation
+* Clone the repo
+* type npm install to install the necessary dependencies 
+* type npm run dev
+* access the application using the local host (http://127.0.0.1:5173)
